@@ -16,12 +16,12 @@ To get started with the bot, follow these steps:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/DiscordBot_FiveMConverter.git
+git clone https://github.com/ZoniBoy00/FiveM-Lua-Converter.git
 ```
 Navigate to the Project Directory
 
 ```bash
-cd DiscordBot_FiveMConverter
+cd FiveM-Lua-Converter
 ```
 Install Dependencies
 
