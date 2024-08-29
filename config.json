@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": "!",
+    "statuses": [
+        "Coding in Lua",
+        "Chilling out",
+        "Coding some scripts"
+    ],
+    "activityType": 3,
+    "statusChangeInterval": 10000 
+}
